@@ -1,5 +1,5 @@
 {
-  "name": "leaflet.fullscreen",
+  "name": "leaflet.fullscreen-cl",
   "version": "1.4.5",
   "description": "Simple plugin for Leaflet that adds fullscreen button to your maps.",
   "main": "Control.FullScreen.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/brunob/leaflet.fullscreen.git"
+    "url": "git://github.com/sharess/leaflet.fullscreen-cl.git"
   },
   "keywords": [
     "leaflet",
